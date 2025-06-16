@@ -1,6 +1,4 @@
 {
-  "version": 1,
-  "model": {
-    "esp32": "https://github.com/R3dquarry/atom-echo/raw/refs/heads/main/assistant.tflite"
-  }
+  "model": "https://github.com/R3dquarry/atom-echo/raw/refs/heads/main/assistant.tflite",
+  "version": 1
 }
