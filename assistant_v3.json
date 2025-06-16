@@ -3,7 +3,7 @@
   "wake_word": "Assistant",
   "author": "R3dquarry",
   "website": "https://example.com",
-  "model": "./assistant.tflite",
+  "model": "assistant.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
