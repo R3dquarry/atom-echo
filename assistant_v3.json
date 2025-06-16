@@ -7,10 +7,10 @@
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.5,           // Standard default, adjust if needed
-    "feature_step_size": 10,             // From okay_nabu.json
-    "sliding_window_size": 5,            // From okay_nabu.json
-    "tensor_arena_size": 26080,          // From okay_nabu.json (this is the memory buffer size for the model)
-    "minimum_esphome_version": "2024.7.0" // From okay_nabu.json (your ESPHome version is 2025.5.2, so this is fine)
+    "probability_cutoff": 0.5,
+    "feature_step_size": 10,
+    "sliding_window_size": 5,
+    "tensor_arena_size": 26080,
+    "minimum_esphome_version": "2024.7.0"
   }
 }
