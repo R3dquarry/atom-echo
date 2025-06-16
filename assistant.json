@@ -1,4 +1,4 @@
 {
-  "model": "https://github.com/R3dquarry/atom-echo/raw/refs/heads/main/assistant.tflite",
+  "model": "./assistant.tflite",
   "version": 1
 }
