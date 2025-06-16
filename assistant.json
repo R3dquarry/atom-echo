@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "models": {
+    "esp32": "https://github.com/R3dquarry/atom-echo/raw/refs/heads/main/assistant.tflite"
+  },
+  "probability_cutoff": 0.5,
+  "sliding_window_size": 6
+}
